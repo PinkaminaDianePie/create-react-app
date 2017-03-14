@@ -120,7 +120,7 @@ module.exports = {
     'no-template-curly-in-string': 'warn',
     'no-this-before-super': 'warn',
     'no-throw-literal': 'warn',
-    'no-undef': 'error',
+    'no-undef': 'warn',
     'no-restricted-globals': ['error', 'event'],
     'no-unexpected-multiline': 'warn',
     'no-unreachable': 'warn',
