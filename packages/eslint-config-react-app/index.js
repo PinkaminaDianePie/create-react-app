@@ -165,7 +165,7 @@ module.exports = {
     'use-isnan': 'warn',
     'valid-typeof': 'warn',
     'no-restricted-properties': [
-      'error',
+      'warn',
       {
         object: 'require',
         property: 'ensure',
